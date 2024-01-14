@@ -29,13 +29,13 @@ Technologies:
 
 
 
-**Assessment Title 2: Project Title: Activity Recognition using Chest-Mounted Accelerometer Data**
+# **Assessment Title 2: Project Title: Activity Recognition using Chest-Mounted Accelerometer Data**
 
-**## Overview:**
+## **Overview:**
 
 This project builds a machine-learning model to predict human activities from chest-mounted accelerometer data. We leverage sensor readings to classify various daily activities such as walking, standing, sitting, climbing stairs, and more. This can be used for fitness tracking, healthcare applications, or even personalized user interfaces.
 
-**### Key Features:**
+### **Key Features:**
 
 **Data Preprocessing:** Cleans and prepares raw accelerometer data by handling noise, outliers, and segmentation into relevant time windows.
 
@@ -48,7 +48,7 @@ This project builds a machine-learning model to predict human activities from ch
 **Visualization:** Provides interactive visualizations of activity predictions, feature distributions, and model accuracy.
 Technologies:
 
-**### Challenges Addressed:**
+### **Challenges Addressed:**
 
 **Sensor Noise and Outliers:** Robustly handle noise and outliers present in real-world sensor data.
 
